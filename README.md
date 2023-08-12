@@ -57,7 +57,8 @@
 </td></tr><tr><td colspan=2>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rifat-shaun&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-(https://github-readme-streak-stats.herokuapp.com/?user=rifat-shaun)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-shaun&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 </td></tr></table>  
