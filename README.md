@@ -48,16 +48,15 @@
 ## 📈 Github Statistics  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifat-shaun&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-shaun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-shaun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-shaun&layout=compact&theme=vision-friendly-dark)](https://github.com/rifat-shaun/github-readme-stats)
 
 </td></tr><tr><td colspan=2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-shaun&theme=dark&background=000000)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifat-shaun&show_icons=true&theme=dark)
   
 </td></tr></table>  
 
@@ -72,8 +71,8 @@
     <b>Codeforces:</b>
   <div/>
 
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=rifat_hasan)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=rifat_hasan)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rifat_hasan&theme=dark)
 
 </td><td valign="top" width="50%">
   
@@ -81,8 +80,8 @@
     <b>Leetcode:</b>
     
   <div/>
-
-![](https://leetcard.jacoblin.cool/rifat807)
+   
+![](https://leetcard.jacoblin.cool/rifat807?ext=activity)
 
 </td></tr></table>  
 
