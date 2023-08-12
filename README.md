@@ -52,11 +52,9 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-shaun&hide_border=true&layout=compact" align="left" style="width: 95%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-shaun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr><tr><td colspan=2>
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rifat-shaun&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-shaun&theme=dark&background=000000)](https://git.io/streak-stats)
 
